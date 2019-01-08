@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4382605C21C23E4A00632617 /* crayon_1-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4382605B21C23E4A00632617 /* crayon_1-1.ttf */; };
 		4B63E38721B527CF00981E9D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B63E38621B527CF00981E9D /* AppDelegate.swift */; };
 		4B63E38921B527CF00981E9D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B63E38821B527CF00981E9D /* ViewController.swift */; };
 		4B63E38C21B527CF00981E9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B63E38A21B527CF00981E9D /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4382605B21C23E4A00632617 /* crayon_1-1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "crayon_1-1.ttf"; sourceTree = "<group>"; };
 		4B63E38321B527CF00981E9D /* Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Timer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B63E38621B527CF00981E9D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4B63E38821B527CF00981E9D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				4B63E38621B527CF00981E9D /* AppDelegate.swift */,
 				4B63E38821B527CF00981E9D /* ViewController.swift */,
+				4382605B21C23E4A00632617 /* crayon_1-1.ttf */,
 				4B63E38A21B527CF00981E9D /* Main.storyboard */,
 				4B63E38D21B527D000981E9D /* Assets.xcassets */,
 				4B63E38F21B527D000981E9D /* LaunchScreen.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4382605C21C23E4A00632617 /* crayon_1-1.ttf in Resources */,
 				4B63E39121B527D000981E9D /* LaunchScreen.storyboard in Resources */,
 				4B63E38E21B527D000981E9D /* Assets.xcassets in Resources */,
 				4B63E38C21B527CF00981E9D /* Main.storyboard in Resources */,
